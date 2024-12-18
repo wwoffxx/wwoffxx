@@ -12,3 +12,9 @@
 
 ## ⚙️ **Skills & Frameworks**
 <img src="images/python.png" width="80" height="80" />
+<img src="images/Anaconda.png" width="80" height="80" />
+<img src="images/Jupyter.png" width="80" height="80" />
+<img src="images/Matplotlib.png" width="80" height="80" />
+<img src="images/scikit-learn.png" width="80" height="80" />
+<img src="images/PostgreSQL.png" width="80" height="80" />
+<img src="images/Pandas.png" width="80" height="80" />
