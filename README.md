@@ -11,10 +11,13 @@
 ---
 
 ## ⚙️ **Skills & Frameworks**
-<img src="images/python.png" width="80" height="80" />
-<img src="images/Anaconda.png" width="80" height="80" />
-<img src="images/Jupyter.png" width="80" height="80" />
-<img src="images/Matplotlib.png" width="80" height="80" />
-<img src="images/scikit-learn.png" width="80" height="80" />
-<img src="images/PostgreSQL.png" width="80" height="80" />
-<img src="images/Pandas.png" width="80" height="80" />
+
+<div align="center">
+    <img src="images/python.png" width="80" height="80" style="display: inline-block;" />
+    <img src="images/Anaconda.png" width="80" height="80" style="display: inline-block;" />
+    <img src="images/Jupyter.png" width="80" height="80" style="display: inline-block;" />
+    <img src="images/Matplotlib.png" width="80" height="80" style="display: inline-block;" />
+    <img src="images/scikit-learn.png" width="80" height="80" style="display: inline-block;" />
+    <img src="images/PostgresSQL.png" width="80" height="80" style="display: inline-block;" />
+    <img src="images/Pandas.png" width="80" height="80" style="display: inline-block;" />
+</div>
