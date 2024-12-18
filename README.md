@@ -9,12 +9,8 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
     <br>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2FABin_98&count_bg=%2379C83D&title_bg=%23555555&icon=telegram&icon_color=%23FFFFFF&title=Profile+views&edge_flat=false" alt="Profile views"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2FABin_98&count_bg=%2379C83D&title_bg=%23555555&icon=telegram&icon_color=%23FFFFFF&title=views&edge_flat=true" alt="Profile views"/>
 </div>
-
-
-
-
 
 </div>
 
